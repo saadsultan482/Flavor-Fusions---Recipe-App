@@ -188,7 +188,5 @@ h3{
 .social h4 a:hover {
     color: #116530;
     padding: 0.8rem;
-    /* background-color: #fff; */
     transition: all 0.2s ease;
-    /* border-radius: 10px; */
 }
